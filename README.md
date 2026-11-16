@@ -14,6 +14,8 @@ NG Labs is a brand of **North Growth Lab LLC**. This is an original reference co
 
 Replace illustrative examples with agreed requirements. Leave credentials and private customer records out of these files. A completed template is a discussion artifact; it does not prove that the controls are implemented or that an integration is available.
 
+Before choosing software, complete [the existing-tool versus custom-portal pilot](tool-choice-pilot.md). Compare one task, one awkward exception and observed evidence.
+
 ## Worked example
 
 An illustrative service request moves from a customer to a reviewer and then an approver. The application sends an approved request to an operational tool. If no confirmation is available, the request stays visibly unresolved. An authorised operator checks the identified version and destination outcome before deciding whether to repeat the exchange. A late confirmation is reconciled against the same reference. This example describes no live customer system.
