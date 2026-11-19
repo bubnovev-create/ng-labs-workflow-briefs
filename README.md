@@ -8,7 +8,7 @@ NG Labs is a brand of **North Growth Lab LLC**. This is an original reference co
 
 1. Complete [the workflow scope](workflow-scope.md) for one useful journey.
 2. Fill [the role and access matrix](role-access-matrix.md), including actions that must be refused.
-3. Write [the integration recovery decisions](integration-recovery.md) for an unresolved exchange.
+3. Write [the integration recovery decisions and field contract](integration-recovery.md), including missing/empty values and three acceptance records for an unresolved exchange.
 4. Use [the permission acceptance review](permission-review.md) to pair allowed and refused journeys.
 5. Review [the handover checklist](handover-checklist.md) with the people who will operate the product, including its bounded recovery exercise record.
 
